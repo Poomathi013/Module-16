@@ -1,4 +1,4 @@
-[[# Ex. No: 16B - Constructing and Balancing an AVL Tree in Python
+# Ex. No: 16B - Constructing and Balancing an AVL Tree in Python
 
 ## AIM:
 To write a Python program to construct an **AVL tree**, balance it, and print the nodes **before and after balancing** using the appropriate packages and built-in function.
@@ -51,4 +51,4 @@ def Construct_AVL(L):
 
 Thus the Python program to construct an **AVL tree**, balance it, and print the nodes **before and after balancing** using the appropriate packages and built-in function was successfully executed.
 
-](https://github.com/Abishek37-lab/Module-15.git)](https://github.com/Abishek37-lab/Module-15.git)
+
